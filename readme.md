@@ -1,6 +1,6 @@
 # rn-lib
 
-**rn-lib** adalah library React Native yang menyediakan fitur autentikasi dan pengambilan informasi perangkat.
+**react-native-for-testing** adalah library React Native yang menyediakan fitur autentikasi dan pengambilan informasi perangkat.
 
 ## 📦 Instalasi
 
@@ -11,16 +11,16 @@ npx react-native init MyProject
 cd MyProject
 ```
 
-Kemudian, install library `rn-lib` dengan perintah berikut:
+Kemudian, install library `react-native-for-testing` dengan perintah berikut:
 
 ```sh
-npm install rn-lib
+npm install react-native-for-testing
 ```
 
 atau jika menggunakan Yarn:
 
 ```sh
-yarn add rn-lib
+yarn add react-native-for-testing
 ```
 
 ## 🚀 Cara Penggunaan
