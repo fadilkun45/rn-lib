@@ -1,0 +1,17 @@
+{
+    "name": "react-native-for-testing",
+    "version": "1.0.0",
+    "description": "gk tau libary apaan",
+    "main": "index.ts",
+    "author": "Faldi Ramadhan",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fadilkun45/rn-lib.git"
+    },
+    "keywords": ["react-native", "library", "custom", "gabut"],
+    "dependencies": {
+        "@react-native-async-storage/async-storage": "^2.1.2",
+        "react-native-geolocation-service": "^5.3.1"
+    }
+}
